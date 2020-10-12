@@ -1,0 +1,26 @@
+li {
+    overflow: hidden;
+    margin: 5px;
+}
+
+.button {
+    float: right;
+}
+
+#auth {
+    display: block;
+    float: right;
+}
+
+#auth input {
+    display: block;
+    margin: 5px;
+    padding: 3px;
+    width: 150px;
+    border-radius: 3px;
+}
+
+#enable {
+    transform: scale(1.7);
+    margin: 5px;
+}
